@@ -1,0 +1,7 @@
+id = "melon"
+name = "Melon Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["isunjn <isunjn@gmail.com>"]
+description = "Organic code editor themes"
+repository = "https://github.com/isunjn/melon-zed"
