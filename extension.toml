@@ -1,7 +1,7 @@
-id = "melon"
-name = "Melon Theme"
-version = "0.0.1"
+id = "hami-melon-theme"
+name = "Hami Melon Theme"
+version = "0.1.0"
 schema_version = 1
 authors = ["isunjn <isunjn@gmail.com>"]
-description = "Organic code editor themes"
-repository = "https://github.com/isunjn/melon-zed"
+description = "🍈 Organic code editor theme"
+repository = "https://github.com/isunjn/hami-melon-zed"
